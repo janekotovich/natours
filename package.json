@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "learning node.js - express and mongo db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janekotovich/natours.git"
+  },
+  "author": "Jane Kotovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janekotovich/natours/issues"
+  },
+  "homepage": "https://github.com/janekotovich/natours#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
